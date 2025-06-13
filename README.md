@@ -34,10 +34,10 @@ This project demonstrates how to automatically provision a virtual machine using
 ### 🔧 Step-by-Step
 
 1. **Clone the Repository**
-   ```bash
+```bash
    git clone https://github.com/yourusername/Automate_Website_Setup_Vagrant.git
    cd Automate_Website_Setup_Vagrant
-
+```
 2. **Start the Virtual Machine**
   ```bash
     vagrant up
