@@ -41,15 +41,19 @@ This project demonstrates how to automatically provision a virtual machine using
 2. **Start the Virtual Machine**
   ```bash
     vagrant up
+  ```     
 
 3. **Access the Website**
 
 Open your browser and go to:
+```
 http://192.168.33.55
+```
 
 4. SSH into the VM (optional)
   ```bash
 vagrant ssh
+```
 
 ## 📝 Notes
   - The VM uses a private network IP: 192.168.33.55. Ensure this IP doesn't conflict with other devices on your network.
